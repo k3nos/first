@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+
+}
+.logo{
+    width: 2%;
+}
+nav{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration:none;
+}
+
+
+.poker{
+        width: 50%;
+    }
+.di{
+    width: 50%;
+    background-color: black
+}
+.run{
+    width: 40%;
+}
